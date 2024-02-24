@@ -6,7 +6,7 @@ import os
 
 FILENAME = os.path.abspath("prezzo_target.txt")
 CHANNEL_ID = 800086577837637684
-TOKEN = "MTIxMDkwMDMxODA0NTYwMTgxMg.GlOfuz.IQV_Z3sJQx7gI3PpKfziLQuRc-Wbp3qe2mLq8U"
+TOKEN = "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
 FILENAME = os.path.abspath("prezzo_target.txt")
 
 # Dichiarazione degli Intents
